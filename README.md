@@ -9,11 +9,17 @@ A boilerplate for fast react development
     <td style="border: none;">
       <img src="https://github.com/webpack/media/blob/master/logo/icon-square-big.png?raw=true" alt="webpack logo" width=100/>
     </td>
-          <td style="border: none;">
-      <img src="https://github.com/webpack/media/blob/master/logo/icon-square-big.png?raw=true" alt="babel logo" width=100/>
+    <td style="border: none;">
+      <img src="https://github.com/babel/logo/blob/master/babel.png" alt="babel logo" width=100/>
     </td>
     <td style="border: none;">
       <img src="https://bulma.io/images/bulma-logo.png" alt="bulma logo" width=100/>
+    </td>
+    <td style="border: none;">
+      <img src="https://en.wikipedia.org/wiki/ESLint#/media/File:ESLint_logo.svg" alt="eslint logo" width=100/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/prettier/prettier-logo/blob/master/images/key.png" alt="prettier logo" width=100/>
     </td>
   </tr>
 </table>
@@ -40,7 +46,7 @@ cd react-webpack-babel-bulma
 #### With Yarn
 
 ```bash
-yarn install (if you have not installed Yarn then: [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable/))
+yarn install - if you have not installed Yarn then: [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 yarn --v
 ```
 #### You can also use npm
