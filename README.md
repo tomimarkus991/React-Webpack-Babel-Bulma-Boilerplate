@@ -46,9 +46,11 @@ cd react-webpack-babel-bulma
 #### With Yarn
 
 ```bash
-yarn install download yarn - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+yarn install
 yarn --v
 ```
+Download yarn - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+
 #### You can also use npm
 
 ```bash
