@@ -16,10 +16,10 @@ A boilerplate for fast react development
       <img src="https://bulma.io/images/bulma-logo.png" alt="bulma logo" width=100/>
     </td>
     <td style="border: none;">
-      <img src="https://en.wikipedia.org/wiki/ESLint#/media/File:ESLint_logo.svg" alt="eslint logo" width=100/>
+      <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="eslint logo" width=100/>
     </td>
     <td style="border: none;">
-      <img src="https://github.com/prettier/prettier-logo/blob/master/images/key.png" alt="prettier logo" width=100/>
+      <img src="https://prettier.io/icon.png" alt="prettier logo" width=100/>
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@ cd react-webpack-babel-bulma
 #### With Yarn
 
 ```bash
-yarn install - if you have not installed Yarn then: [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+yarn install download yarn - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 yarn --v
 ```
 #### You can also use npm
