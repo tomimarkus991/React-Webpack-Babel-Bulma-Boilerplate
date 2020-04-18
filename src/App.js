@@ -1,5 +1,5 @@
-import React from 'react';
-import Clicker from './components/Clicker';
+import React from "react";
+import Clicker from "./components/Clicker";
 
 const App = () => {
 	return (

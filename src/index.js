@@ -1,9 +1,9 @@
-import '@babel/polyfill';
+import "@babel/polyfill";
 
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
 
-import './sass/main.scss';
+import "./sass/main.scss";
 
-ReactDOM.render(<App />, document.getElementById('index'));
+ReactDOM.render(<App />, document.getElementById("index"));

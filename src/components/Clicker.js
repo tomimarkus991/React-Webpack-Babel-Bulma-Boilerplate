@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 export default function Clicker() {
 	const [counter, setCounter] = useState(0);
@@ -7,7 +7,8 @@ export default function Clicker() {
 			<h1>Count: {counter}</h1>
 			<button
 				className="button is-info"
-				onClick={() => setCounter(counter + 1)}>
+				onClick={() => setCounter(counter + 1)}
+			>
 				Add
 			</button>
 		</div>
