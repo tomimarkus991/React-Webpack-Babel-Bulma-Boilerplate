@@ -33,18 +33,6 @@ module.exports = {
     'prettier'
   ],
   rules: {
-    'prettier/prettier': [
-      'error',
-      {
-        tabWidth: 2,
-        semi: true,
-        singleQuote: true,
-        trailingComma: "all",
-        jsxBracketSameLine: true,
-        arrowParens: "always",
-        typeof: false
-      },
-    ],
-    // add some custom ESLint rules
+    'prettier/prettier': ['error'],
   },
 }
