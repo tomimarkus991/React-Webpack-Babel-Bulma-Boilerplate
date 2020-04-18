@@ -18,7 +18,13 @@
     "src/**/*.{js,jsx}": [
       "yarn fix"
     ],
-    "tests/**/*.{js,jsx}": [
+    "tests/**/*.{js}": [
+      "yarn fix"
+    ],
+    "config/**/*.{js}": [
+      "yarn fix"
+    ],
+    "*/**/*.{js}": [
       "yarn fix"
     ],
     "src/**/*.{scss}": [
