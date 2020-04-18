@@ -8,16 +8,18 @@
     "fix": "eslint --fix .",
     "start": "webpack-dev-server --config config/webpack.config.dev.js --open --hot",
     "serve": "serve -s build",
-    "test": "jest",
-    "pretty": "prettier --write --tab-width 4 \"src/**/*.js\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/tomimarkus991/React-Webpack-Babel-Bulma-Boilerplate"
   },
   "lint-staged": {
-    "*.js": [
-      "yarn pretty"
+    "src/**/*.{js,jsx}": [
+      "yarn fix"
+    ],
+    "src/**/*.{scss}": [
+      "yarn fix"
     ]
   },
   "husky": {
