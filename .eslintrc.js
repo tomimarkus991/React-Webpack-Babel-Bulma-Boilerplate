@@ -36,10 +36,11 @@ module.exports = {
 				tabWidth: 2,
 				semi: true,
 				singleQuote: true,
-				trailingComma: "all",
+				trailingComma: 'all',
 				jsxBracketSameLine: true,
-				arrowParens: "always",
+				arrowParens: 'always',
 				typeof: false,
+				endOfLine: 'auto'
 			},
 		],
 		// add some custom ESLint rules
