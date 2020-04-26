@@ -26,9 +26,6 @@
     ],
     "*/**/*.{js}": [
       "yarn fix"
-    ],
-    "src/**/*.{scss}": [
-      "yarn fix"
     ]
   },
   "husky": {
